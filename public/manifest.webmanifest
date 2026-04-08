@@ -1,0 +1,19 @@
+{
+  "name": "RoomMate Ledger",
+  "short_name": "RoomMate",
+  "description": "Track and manage shared expenses with your roommates.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
